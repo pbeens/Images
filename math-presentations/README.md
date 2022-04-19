@@ -2,7 +2,7 @@
 
 Good source for copyright-free icons: https://commons.wikimedia.org/
 
-| Image | URL |
+| Image | Credit/Source |
 |:---:|:---:|
 | [<img src="equations_flowchart.svg" width="75">](equations_flowchart.svg) | https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-mathematics/glossary |
 | [<img src="flowchart_coding.svg" width="75">](flowchart_coding.svg) | https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-mathematics/glossary |
