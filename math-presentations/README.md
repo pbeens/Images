@@ -9,6 +9,7 @@ Good source for copyright-free icons: https://commons.wikimedia.org/
 | [<img src="Scratch_2.0_Screen_Hello_World.png" width="75">](Scratch_2.0_Screen_Hello_World.png) | https://commons.wikimedia.org/wiki/File:Scratch_2.0_Screen_Hello_World.png |
 | [<img src="turtle-square-1.png" width="75">](turtle-square-1.png) | Screenshot |
 | [<img src="turtle-square-2.png" width="75">](turtle-square-2.png) | Screenshot |
+| [<img src="Girl_with_a_Pearl_Earring_(pixelated).jpg" width="75">](Girl_with_a_Pearl_Earring_(pixelated).jpg) | https://commons.wikimedia.org/wiki/File:Girl_with_a_Pearl_Earring_(pixelated).jpg |
 
 ## Markdown Usage
 
