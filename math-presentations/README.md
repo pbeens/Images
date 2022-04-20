@@ -9,6 +9,7 @@ Good source for copyright-free icons: https://commons.wikimedia.org/
 | [<img src="Math-is-hard.png" width="75">](Math-is-hard.png) | https://twitter.com/HollyBriden/status/1514640013618647041 |
 | [<img src="Measurement-challenge-A.png" width="75">](Measurement-challenge-A.png) | Unknown |
 | [<img src="Measurement-challenge-B.png" width="75">](Measurement-challenge-B.png) | Unknown |
+| [<img src="right-triangle-challenge.png" width="75">](right-triangle-challenge.png) | Unknown |
 | [<img src="Scratch_2.0_Screen_Hello_World.png" width="75">](Scratch_2.0_Screen_Hello_World.png) | https://commons.wikimedia.org/wiki/File:Scratch_2.0_Screen_Hello_World.png |
 | [<img src="turtle-square-1.png" width="75">](turtle-square-1.png) | Screenshot |
 | [<img src="turtle-square-2.png" width="75">](turtle-square-2.png) | Screenshot |
