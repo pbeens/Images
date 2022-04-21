@@ -4,6 +4,7 @@ Good source for copyright-free icons: https://commons.wikimedia.org/
 
 | Image | Credit/Source |
 |:---:|:---:|
+| [<img src="cherry.jpeg" width="75">](cherry.jpeg) | https://people.math.harvard.edu/~knill/pedagogy/ambiguity/index.html |
 | [<img src="equations_flowchart.svg" width="75">](equations_flowchart.svg) | https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-mathematics/glossary |
 | [<img src="flowchart_coding.svg" width="75">](flowchart_coding.svg) | https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-mathematics/glossary |
 | [<img src="Girl_with_a_Pearl_Earring_(pixelated).jpg" width="75">](Girl_with_a_Pearl_Earring_(pixelated).jpg) | https://commons.wikimedia.org/wiki/File:Girl_with_a_Pearl_Earring_(pixelated).jpg |
